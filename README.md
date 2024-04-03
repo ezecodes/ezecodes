@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elijah</h1>
-<h3 align="center">an AWS Cloud and DevOps engineer</h3>
+<h3 align="center">AWS Cloud, DevOps, Backend engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezecodes&label=Profile%20views&color=0e75b6&style=flat" alt="ezecodes" /> </p>
 
