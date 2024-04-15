@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@elijaheze777](https://medium.com/@elijaheze777)
 
-- 💬 Ask me about **devops, aws, Nodejs, ansible, IAC, terraform**
+- 💬 Ask me about **devops, aws, Nodejs, ansible, IAC, terraform, react**
 
 - 📫 How to reach me **elijaheze777@gmail.com**
 
