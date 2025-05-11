@@ -24,9 +24,7 @@
 - **24-hour response time** guaranteed for all inquiries
 
 ## 📈 Featured Projects
-
-[🔗 AWS Microservices Template](https://github.com/ezecodes/aws-microservice-template) - Production-ready starter kit  
-[🔗 CI/CD Pipeline Boilerplate](https://github.com/ezecodes/devops-pipeline) - Automated testing & deployment  
+Coming soon
 
 ## 📬 Let's Build Something Amazing
 
