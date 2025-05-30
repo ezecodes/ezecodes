@@ -24,13 +24,4 @@
 
 - Building high-concurrency services with Go  
 - Exploring Solidity for on-chain service design  
-
----
-
-## Why Reach Out?
-
-- Led infrastructure setups for production apps in fintech and cloud tooling  
-- Improved deployment speed and reliability for fast-moving teams  
-- Available for engineering leadership, backend, or DevOps-heavy roles  
-
-📩 **elijaheze777@gmail.com**
+ 
