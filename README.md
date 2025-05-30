@@ -1,5 +1,4 @@
-<h1 align="center">🚀 Elijah Eze - Your AWS & DevOps Solution</h1>
-<h3 align="center">I help businesses build scalable, reliable backend systems on AWS</h3>
+<h1 align="center">Elijah Eze — Engineering software systems at scale</h1> 
 
 <p align="center">
   <a href="https://linkedin.com/in/elijah-eze-1b367521b" target="blank">
@@ -10,27 +9,28 @@
   </a>
 </p>
 
-## 🔥 What I Can Do For You
+---
 
-✔ **AWS Cloud Architecture** - Design cost-effective, scalable solutions  
-✔ **DevOps Automation** - CI/CD pipelines that save you hours every week  
-✔ **Infrastructure as Code** - Terraform/Ansible for reproducible environments  
-✔ **Backend Development** - Node.js APIs that handle millions of requests  
+## Areas of Expertise
 
-## 💡 Why Work With Me?
+- Scalable backend architecture (Node.js, TypeScript, Go)
+- CI/CD pipelines, containerized delivery (Docker, Terraform)
+- Cloud infrastructure built for cost and reliability (AWS)
+- System performance, monitoring, and uptime strategy
 
-- **10+ successful deployments** for startups and enterprises
-- **30% cost reduction** average for clients through AWS optimization
-- **24-hour response time** guaranteed for all inquiries
+---
 
-## 📈 Featured Projects
-Coming soon
+## Current Direction
 
-## 📬 Let's Build Something Amazing
+- Building high-concurrency services with Go  
+- Exploring Solidity for on-chain service design  
 
-Ready to streamline your infrastructure?  
-👉 **Email me now:** [elijaheze777@gmail.com](mailto:elijaheze777@gmail.com)  
+---
 
-<p align="center">
-  <i>"The best time to optimize your cloud infrastructure was yesterday. The second best time is now."</i>
-</p>
+## Why Reach Out?
+
+- Led infrastructure setups for production apps in fintech and cloud tooling  
+- Improved deployment speed and reliability for fast-moving teams  
+- Available for engineering leadership, backend, or DevOps-heavy roles  
+
+📩 **elijaheze777@gmail.com**
