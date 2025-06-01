@@ -1,4 +1,4 @@
-<h1 align="center">Elijah Eze — Engineering software systems at scale</h1> 
+<h1 align="center">Jah Ez — Engineering software systems at scale</h1> 
 
 <p align="center">
   <a href="https://linkedin.com/in/elijah-eze-1b367521b" target="blank">
