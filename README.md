@@ -12,7 +12,7 @@
 ### Profile
 
 - **Languages:** TypeScript, Go  
-- **Stacks:** Node.js, PostgreSQL, Memcached, Docker, Terraform  
+- **Stacks:** Node.js, PostgreSQL, Memcached, Docker, Terraform, Next.js
 
 ---
 
@@ -27,7 +27,7 @@
 
 ### Principles
 
-- Ship small, ship often — fast feedback beats perfect code.
-- Build for edge cases first — if it works only in ideal conditions, it’s useless.  
-- Keep it simple — complexity is the enemy of reliability.
-- Learn from production — logs, metrics, and incidents are your teachers.
+- Ship small, ship often. Fast feedback beats perfect code.
+- Build for edge cases first; if it works only in ideal conditions, it’s useless.  
+- Keep it simple, complexity is the enemy of reliability.
+- Learn from production. Logs, metrics, and incidents are your teachers.
