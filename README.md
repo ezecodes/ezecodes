@@ -1,27 +1,32 @@
-<h1 align="center">Jah Ez — Engineering software systems at scale</h1> 
-
-<p align="center">
-  <a href="https://linkedin.com/in/elijah-eze-1b367521b" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Connect on LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:elijaheze777@gmail.com" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email Me" height="30" width="40" />
-  </a>
-</p>
+# Jah Ez — Engineering reliable systems at scale
 
 ---
 
-## Areas of Expertise
+### Contacts
 
-- Scalable backend architecture (Node.js, TypeScript, Go)
-- CI/CD pipelines, containerized delivery (Docker, Terraform)
-- Cloud infrastructure built for cost and reliability (AWS)
-- System performance, monitoring, and uptime strategy
+- **LinkedIn:** [https://linkedin.com/in/elijah-eze-1b367521b](https://linkedin.com/in/elijah-eze-1b367521b)  
+- **Email:** elijaheze777@gmail.com
 
 ---
 
-## Current Direction
+### Profile
 
-- Building high-concurrency services with Go  
-- Exploring Solidity for on-chain service design  
- 
+- **Languages:** TypeScript, Go  
+- **Stacks:** Node.js, PostgreSQL, Memcached, Docker, Terraform  
+
+---
+
+### Currently
+
+- High-throughput Go backends  
+- Policy-as-code, mTLS, OpenTelemetry  
+- IAC with terraform
+- Payment infra, automation tools  
+
+---
+
+### Principles
+
+- Ship. Monitor. Improve.  
+- Avoid 2am deploys.  
+- Build for the edge cases first.  
