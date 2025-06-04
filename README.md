@@ -2,32 +2,35 @@
 
 ---
 
-### Contacts
+### 📇 Contacts
 
-- **LinkedIn:** [https://linkedin.com/in/elijah-eze-1b367521b](https://linkedin.com/in/elijah-eze-1b367521b)  
-- **Email:** elijaheze777@gmail.com
-
----
-
-### Profile
-
-- **Languages:** TypeScript, Go  
-- **Stacks:** Node.js, PostgreSQL, Memcached, Docker, Terraform, Next.js
+- 🔗 **LinkedIn:** [linkedin.com/in/elijah-eze-1b367521b](https://linkedin.com/in/elijah-eze-1b367521b)  
+- 📧 **Email:** elijaheze777@gmail.com
 
 ---
 
-### Currently
+### 💡 Profile
+
+**Languages:**  
+`TypeScript` `Go`  
+
+**Stacks & Tools:**  
+`Node.js` `PostgreSQL` `Memcached` `Docker` `Terraform` `Next.js`
+
+---
+
+### 🔭 Currently
 
 - High-throughput Go backends  
 - Policy-as-code, mTLS, OpenTelemetry  
-- IAC with terraform
-- Payment infra, automation tools  
+- Infrastructure as Code (Terraform)  
+- Payment infrastructure, automation tools  
 
 ---
 
-### Principles
+### 🛠 Principles
 
-- Ship small, ship often. Fast feedback beats perfect code.
-- Build for edge cases first; if it works only in ideal conditions, it’s useless.  
-- Keep it simple, complexity is the enemy of reliability.
-- Learn from production. Logs, metrics, and incidents are your teachers.
+- 🚀 **Ship small, ship often.** Fast feedback beats perfect code.  
+- 🛡 **Build for edge cases first;** if it works only in ideal conditions, it’s useless.  
+- 🧩 **Keep it simple;** complexity is the enemy of reliability.  
+- 📊 **Learn from production;** logs, metrics, and incidents are your teachers.
