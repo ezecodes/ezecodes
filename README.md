@@ -27,6 +27,7 @@
 
 ### Principles
 
-- Ship. Monitor. Improve.  
-- Avoid 2am deploys.  
-- Build for the edge cases first.  
+- Ship small, ship often — fast feedback beats perfect code.
+- Build for edge cases first — if it works only in ideal conditions, it’s useless.  
+- Keep it simple — complexity is the enemy of reliability.
+- Learn from production — logs, metrics, and incidents are your teachers.
