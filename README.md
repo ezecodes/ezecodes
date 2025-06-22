@@ -5,7 +5,7 @@
 ### 📇 Contacts
 
 - 🔗 **LinkedIn:** [linkedin.com/in/elijah-eze-1b367521b](https://linkedin.com/in/elijah-eze-1b367521b)  
-- 📧 **Email:** elijaheze777@gmail.com
+- 📧 **Email:** jahdevlops@gmail.com
 
 ---
 
