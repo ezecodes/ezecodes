@@ -13,9 +13,7 @@ I help teams build and operate production-grade systems with:
 - 🔒 **Security & reliability**: mTLS, Policy-as-code, monitoring, and observability
 - 💳 **Payment systems**, internal tooling, and infrastructure automation
 - 🛠️ **Developer platforms**: tools that make teams 10x faster
-
-Whether it's greenfield development, refactoring legacy systems, or scaling infra — I bring clarity, speed, and production awareness.
-
+ 
 ---
 
 ## 🧠 Engineering Philosophy
