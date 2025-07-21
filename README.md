@@ -23,19 +23,14 @@ I help teams build and operate production-grade systems with:
 - 🧩 *Keep it simple.* Complexity is the enemy of reliability.
 - 📊 *Learn from production.* Logs, metrics, and incidents are your teachers.
 
----
 
-## 💼 Featured Projects
+## 💼 Featured Work
 
-| Project | What It Solves | What I Did | Tech |
-|--------|----------------|------------|------|
-| [`Erxtopay`](https://erxtopay.com) | Simplifies global money movement using blockchain; enabling fast, secure cross-border transactions. | Co-developed backend infrastructure, integrated blockchain rails, and built for production-grade reliability. | `Go` `TypeScript` `OpenTelemetry` `Next.js` |
-| [`Clifbay`](https://clifbay.com) | Empowers African vendors to sell indigenous products online; bridging tradition and modern commerce. | Built the entire platform including seller onboarding, checkout flow, and backend infra. | `Node.js` `PostgreSQL` `Memcached` `Paystack API` |
-| [`Radsystems Website`](https://radsystems.io) | Converts visitors into users for a fullstack low-code platform by clearly showcasing product value and credibility. | Designed and built the entire company website structure, UI, SEO, and developer-targeted copywriting. | `Next.js` `TypeScript` `Tailwind` `Vercel` |
+| **Project** | **What It Solves** | **What I Did**  
+|-------------|---------------------|----------------| 
+| [`Radsystems Website`](https://radsystems.io) | The old site wasn’t doing justice to the product; poor SEO, confusing layout, no content flexibility. After the rebuild, the site scored a perfect **100 SEO score on Lighthouse**, ranks better on Google, loads faster, and now reflects the credibility of the platform. | Rebuilt the site from the ground up with a performance-first, responsive UI.  Integrated a custom CMS so their team can publish and update content without writing code. Fully deployed and optimized for speed, SEO, and clarity.   |
+| AWS Infrastructure setup | This setup handles load, maintains uptime, isolates traffic, and scales safely across availability zones. It’s secure, observable, and deploy-ready for any serious product. | Set up a complete AWS environment: VPC with public/private subnets, multi-AZ MySQL RDS in private zones, S3 for static assets, Load Balancer for HTTPS traffic, and strict security groups. Provisioned entirely with Terraform for reliability and repeatability.  
 
-> Each of these projects solves real-world challenges with reliability, scale, and production-ready thinking.
-
----
 
 ## 🛠 Tech I Use
 
