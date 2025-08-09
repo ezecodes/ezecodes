@@ -1,6 +1,5 @@
-# ⚙️ Jah Ez — Engineering Reliable Systems at Scale
-
-Hi, I’m Elijah, a fullstack engineer and devops specialist. I build high-performance systems with clean, reliable infrastructure, designed to scale from zero to millions of users.
+# ⚙️ Jah Ez — Code, Commerce, Clarity  
+Technical lead
 
 ---
 
