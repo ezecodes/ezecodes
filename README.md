@@ -1,11 +1,10 @@
-# ⚙️ Jah Ez — Code, Commerce, Clarity  
-Technical lead
+# ⚙️ Jah Ez — Technical Maestro | Engineering Lead
 
 ---
 
 ## 🚀 What I Do
 
-I help teams build and operate production-grade systems with:
+Enabling teams to deliver and maintain production-grade systems via:
 
 - ⚡ **High-throughput Go & Node.js backends**
 - 🏗 **Infrastructure as Code** using Terraform, Docker, CI/CD
